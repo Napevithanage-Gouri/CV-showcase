@@ -1,11 +1,11 @@
-# Census Income prediction:
+# 1.Census Income prediction:
 
   ## Data preprocessing / visualization
   ## Machine learning models to predict the income
     Naive bayes classification model
     Random forest classification model
 
-# HCHO Reading analysis:
+# 2.HCHO Reading analysis:
 
   ## Data preprocessing / visualization
   ## Spatio temporal analysis
