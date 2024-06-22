@@ -17,3 +17,15 @@
     Random Forest classification model
   ## Interactive dashboard
     Python Panel library
+
+  # 3. Simulation and modeling techniques
+    Simple Linear Regression
+    Maximum likelihood estimator
+    Central limit theorem
+    Chebyshev inequality
+    Exponential
+    Gamma and Beta distributions with applications
+    Multivariate normal probability distribution
+    Variance-covariance matrices
+    Markov
+    HMM
